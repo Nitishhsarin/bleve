@@ -1,4 +1,4 @@
-module github.com/blevesearch/bleve/v2
+module github.com/Nitishhsarin/bleve
 
 go 1.19
 
